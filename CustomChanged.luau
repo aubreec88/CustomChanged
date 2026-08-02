@@ -1,3 +1,6 @@
+--!optimize 2
+--!native
+
 type ChangedData = {
 	TrackedInstance:Instance,
 	TrackedProperty:string,
