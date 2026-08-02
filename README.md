@@ -1,2 +1,2 @@
 # CustomChanged
-.Changed but if it was for literally nearly any property of any instance.......
+Use however you would like idc
